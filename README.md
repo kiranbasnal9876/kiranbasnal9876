@@ -14,7 +14,7 @@ const kiran = {
     frontend: ["Angular", "HTML", "CSS", "Bootstrap", "Tailwind"],
     backend: ["Node.js", "Express.js", "CodeIgniter"],
     databases: ["PostgreSQL", "MySQL", "Redis"],
-    tools: ["Git", "GitHub", "Linux", "Docker"],
+    tools: ["Git", "GitHub"],
     currentlyLearning: ["Advanced TypeScript", "System Design", "AI"]
 };
 ```
